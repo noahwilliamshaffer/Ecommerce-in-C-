@@ -1,0 +1,20 @@
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.csproj.AssemblyReference.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.AssemblyInfoInputs.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.AssemblyInfo.cs
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.csproj.CoreCompileInputs.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/bin/Debug/netcoreapp3.1/TaskManagement.deps.json
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/bin/Debug/netcoreapp3.1/TaskManagement.dll
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/bin/Debug/netcoreapp3.1/TaskManagement.pdb
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.dll
+/Users/noahwilliamshaffer/Projects/ProjectExample/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.pdb
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/bin/Debug/netcoreapp3.1/TaskManagement.deps.json
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/bin/Debug/netcoreapp3.1/TaskManagement.dll
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/bin/Debug/netcoreapp3.1/TaskManagement.pdb
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.csproj.AssemblyReference.cache
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.AssemblyInfoInputs.cache
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.AssemblyInfo.cs
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.csproj.CoreCompileInputs.cache
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.dll
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/obj/Debug/netcoreapp3.1/TaskManagement.pdb

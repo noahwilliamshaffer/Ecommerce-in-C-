@@ -1,0 +1,35 @@
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.deps.json
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.runtimeconfig.json
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.runtimeconfig.dev.json
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.dll
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.pdb
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.csproj.AssemblyReference.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.AssemblyInfoInputs.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.AssemblyInfo.cs
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.csproj.CoreCompileInputs.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.csproj.CopyComplete
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.dll
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.pdb
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.genruntimeconfig.cache
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/TaskManagement.dll
+/Users/noahwilliamshaffer/Projects/ProjectExample/ProjectExample/bin/Debug/netcoreapp3.1/TaskManagement.pdb
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.deps.json
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.runtimeconfig.json
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.runtimeconfig.dev.json
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.dll
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/ProjectExample.pdb
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/TaskManagement.dll
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/bin/Debug/netcoreapp3.1/TaskManagement.pdb
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.csproj.AssemblyReference.cache
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.AssemblyInfoInputs.cache
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.AssemblyInfo.cs
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.csproj.CoreCompileInputs.cache
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.csproj.CopyComplete
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.dll
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.pdb
+/Users/noahwilliamshaffer/Downloads/ProjectExample 8/ProjectExample/obj/Debug/netcoreapp3.1/ProjectExample.genruntimeconfig.cache

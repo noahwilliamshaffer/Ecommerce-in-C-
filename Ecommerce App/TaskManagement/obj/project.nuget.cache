@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pm8v8ygP3/PLSF0ZX3FVkV1y8E08J2V+njklAoew+e/ixai2xzDnOBVVnRqG4jXT6tnmehRVz5AxU+s1Vv+oCw==",
+  "success": true,
+  "projectFilePath": "/Users/noahwilliamshaffer/Downloads/ProjectExample 8/TaskManagement/TaskManagement.csproj",
+  "expectedPackageFiles": [
+    "/Users/noahwilliamshaffer/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
